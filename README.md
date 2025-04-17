@@ -39,7 +39,5 @@ To run this project locally, follow these steps:
 3. The app will show the word's definition, part of speech, and phonetic transcription.
 4. You can also click on the sound icon to hear the pronunciation.
 
-## License
-
-This project is open-source and available under the MIT License.
+ 
 
