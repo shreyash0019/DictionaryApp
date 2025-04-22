@@ -38,6 +38,3 @@ To run this project locally, follow these steps:
 2. Click the **Search** button or press `Enter`.
 3. The app will show the word's definition, part of speech, and phonetic transcription.
 4. You can also click on the sound icon to hear the pronunciation.
-
- 
-
