@@ -25,6 +25,8 @@ To run this project locally, follow these steps:
    git clone https://github.com/shreyash0019/DictionaryApp.git
    ```
 
+
+
 2. Open `index.html` in your browser:
    ```bash
    open index.html
